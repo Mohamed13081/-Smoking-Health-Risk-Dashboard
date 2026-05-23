@@ -1,4 +1,4 @@
-# -Smoking-Health-Risk-Dashboard
+# Smoking-Health-Risk-Dashboard
 Interactive Smoking-Health-Risk-Dashboard using Power BI
 Smoking Health Risk Dashboard Project Overview
 
