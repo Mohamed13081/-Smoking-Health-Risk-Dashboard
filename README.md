@@ -8,7 +8,6 @@ The goal of this project was to transform healthcare data into a visually engagi
 
 Dashboard Preview
 
-https://github.com/Mohamed13081/-Smoking-Health-Risk-Dashboard/blob/main/Smoking%20Health%20Risk%20Dashboard%20Project%20%201.png
 
 Objectives Analyze smoking behavior across age groups and gender Identify health risks linked to smoking habits Compare cholesterol and hypertension levels among smokers Visualize smoking duration and cigarette intake trends Build an interactive healthcare analytics dashboard in Power BI
 
