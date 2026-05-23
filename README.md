@@ -25,6 +25,4 @@ Features Interactive navigation panel Health condition toggles Dynamic visual fi
 
 Files Included Power BI Dashboard (.pbix) Dataset (.csv/.xlsx) Dashboard Screenshots
 
-README Documentation Author
 
-Daisy Wambui Mwaura Inspired By Isaac Emmanuel
