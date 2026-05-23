@@ -10,6 +10,9 @@ Dashboard Preview
 
 <img width="1441" height="800" alt="Smoking Health Risk Dashboard Project  1" src="https://github.com/user-attachments/assets/2b4f55ef-dffd-40e0-96fd-68fbfba803d7" />
 
+
+<img width="1433" height="806" alt="Smoking Health Risk Dashboard Project  2" src="https://github.com/user-attachments/assets/9f6df2e9-eae7-4c88-9a96-3e527ffc535d" />
+
 Objectives Analyze smoking behavior across age groups and gender Identify health risks linked to smoking habits Compare cholesterol and hypertension levels among smokers Visualize smoking duration and cigarette intake trends Build an interactive healthcare analytics dashboard in Power BI
 
 Tools & Technologies Used Power BI Power Query DAX Data Modeling Healthcare Dataset Analytics Data Visualization
